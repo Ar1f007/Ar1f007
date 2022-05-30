@@ -50,6 +50,6 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ar1f007&theme=holi-theme)](https://git.io/streak-stats)
 
-[![Arif's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ar1f007&theme=dark&show_icons=true)](https://github.com/Ar1f007/github-readme-stats)
+[![Arif's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ar1f007&hide=contribs,issues&theme=dark&show_icons=true)](https://github.com/Ar1f007/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ar1f007&theme=dark&layout=compact)](https://github.com/Ar1f007/github-readme-stats)
