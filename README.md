@@ -5,7 +5,7 @@
 ## About
 
 - 🎓 Studying Computer Science and Engineering
-- 🌱 I’m currently learning Typescript and Next.js
+- 🌱 I’m currently learning Typescript and Redux
 - 👯 I’m looking for intern/junior web developer job
 
 ## 🛠 Tech Stack
